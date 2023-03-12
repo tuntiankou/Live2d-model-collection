@@ -1,0 +1,145 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "l2d01.u.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": "l2d01.u.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/Mgirl204_cengmaomao.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_yiwen.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_changgui.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_paiqunzi.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_zaoshang.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_pie.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_wanshang.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_rouroushou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_waitou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_banye.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_yaotou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_ganxie.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_wanshang.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_ele.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_rouroushou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_keshi.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_tuoyemangran.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_banye.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_kending.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_zaoshang.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_zhaocaimao.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_kaixin.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_kaixing.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_dangji.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_pie.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_motoukan.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_ganxie.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_motoukan.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_zhongwu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_waitou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_cengmaomao.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_keshi.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_kaixin.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_dangji.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_zhaocaimao.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_tuoyemangran.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_paiqunzi.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_zhongwu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_yiwen.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_changgui.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl204_ele.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

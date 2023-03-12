@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "l2d80011.u.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/Mgirl02_zhanshi3.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl02_zhanshi3.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

@@ -1,0 +1,153 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "l2d8001.u.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/Mgirl13_motouhuiyin.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dazhaohu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianduzi.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianxiong.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_kunjuan.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_kunjuan.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_motouhuiyin.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_motouweixiao.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_songli.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_shenzhan.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianyoushuo.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_zhanshi2.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianzuoxiajiaoyu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_redaiyu2.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_qie.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_zhanshi1.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dazhaohu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_motouweixiao.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_redaiyu2.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_redaiyu1.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianzuotui.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_qie.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianzuoxiajiaoyu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianduzi.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianzuotui.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianzuoshou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianxiong.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_zhanshi3.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_diankongbai.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_chuchang.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_xiachen.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianzuoshou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_zhanshi2.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianyoutui.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_shenzhan.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_zhanshi1.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_zhanshi3.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_chuchang.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_diankongbai.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_xiachen.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_redaiyu1.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianyoushuo.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_dianyoutui.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl13_songli.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

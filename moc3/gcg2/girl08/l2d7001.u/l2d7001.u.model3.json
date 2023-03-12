@@ -1,0 +1,58 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "l2d7001.u.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/Mgirl08_yinyue.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_xiuse.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_hudie.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_yueye.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_xiuse.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_yinyue.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_motou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_tiaoqin.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_motou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_yueye.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_hudie.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl08_tiaoqin.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}
