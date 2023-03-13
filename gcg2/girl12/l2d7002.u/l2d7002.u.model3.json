@@ -1,0 +1,71 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "l2d7002.u.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/Mgirl12_qifu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_yihuo.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_mihu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_jinggao.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_motou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_yihuo.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_dapo.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_feixue.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_luoxue.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_dapo.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_qifu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_luoxue.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_motou.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_jinggao.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_mihu.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl12_feixue.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

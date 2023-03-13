@@ -1,0 +1,22 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "l2d3016.u.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/Mgirl10_stand.motion3.json"
+        },
+        {
+          "File": "motions/Mgirl10_stand.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}
