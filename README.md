@@ -1,2 +1,3 @@
-**keep file name**
-**raise issue if needed**
+- **keep file name**
+
+- **raise issue for new resources**
