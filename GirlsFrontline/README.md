@@ -1,0 +1,4 @@
+- gun
+- bg
+- fairy
+- mod
