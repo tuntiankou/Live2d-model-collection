@@ -1,0 +1,31 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_9008.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_9008_setsunai.motion3.json"
+        },
+        {
+          "File": "motions/c_9008_hohoemi.motion3.json"
+        },
+        {
+          "File": "motions/c_9008_idle.motion3.json"
+        },
+        {
+          "File": "motions/c_9008_jitome.motion3.json"
+        },
+        {
+          "File": "motions/c_9008_shinnpai.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

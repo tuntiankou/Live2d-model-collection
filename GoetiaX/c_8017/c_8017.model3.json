@@ -1,0 +1,22 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_8017.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_8017_idle.motion3.json"
+        },
+        {
+          "File": "motions/c_8017_teregao.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

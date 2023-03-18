@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_3223.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_3223_idle.motion3.json"
+        },
+        {
+          "File": "motions/c_3223_teregao.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

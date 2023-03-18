@@ -1,0 +1,28 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_5515.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": "c_5515.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_5515_unazuku.motion3.json"
+        },
+        {
+          "File": "motions/c_5515_idle.motion3.json"
+        },
+        {
+          "File": "motions/c_5515_kiri.motion3.json"
+        },
+        {
+          "File": "motions/c_5515_egao.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

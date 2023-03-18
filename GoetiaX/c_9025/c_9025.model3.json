@@ -1,0 +1,31 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_9025.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_9025_shinpai.motion3.json"
+        },
+        {
+          "File": "motions/c_9025_tereru.motion3.json"
+        },
+        {
+          "File": "motions/c_9025_nemui.motion3.json"
+        },
+        {
+          "File": "motions/c_9025_teian.motion3.json"
+        },
+        {
+          "File": "motions/c_9025_idle.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

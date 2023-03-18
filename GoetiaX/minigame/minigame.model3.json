@@ -1,0 +1,33 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "minigame.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/minigame_6.motion3.json"
+        },
+        {
+          "File": "motions/minigame_8loop.motion3.json"
+        },
+        {
+          "File": "motions/minigame_8.motion3.json"
+        },
+        {
+          "File": "motions/minigame_normal.motion3.json"
+        },
+        {
+          "File": "motions/minigame_7.motion3.json"
+        },
+        {
+          "File": "motions/minigame_5.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

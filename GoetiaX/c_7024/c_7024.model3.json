@@ -1,0 +1,31 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_7024.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_7024_hohoemu.motion3.json"
+        },
+        {
+          "File": "motions/c_7024_okiniiri.motion3.json"
+        },
+        {
+          "File": "motions/c_7024_onakasuita.motion3.json"
+        },
+        {
+          "File": "motions/c_7024_taberu.motion3.json"
+        },
+        {
+          "File": "motions/c_7024_idle.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

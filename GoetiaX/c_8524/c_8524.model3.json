@@ -1,0 +1,18 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_8524.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_8524.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

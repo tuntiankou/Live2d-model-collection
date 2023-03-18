@@ -1,0 +1,28 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_9028.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_9028_idle.motion3.json"
+        },
+        {
+          "File": "motions/c_9028_iwai.motion3.json"
+        },
+        {
+          "File": "motions/c_9028_tanoshii.motion3.json"
+        },
+        {
+          "File": "motions/c_9028_akire.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

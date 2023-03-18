@@ -1,0 +1,28 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_9020.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_9020_idle.motion3.json"
+        },
+        {
+          "File": "motions/c_9020_yareyare.motion3.json"
+        },
+        {
+          "File": "motions/c_9020_hotmilk.motion3.json"
+        },
+        {
+          "File": "motions/c_9020_egao.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

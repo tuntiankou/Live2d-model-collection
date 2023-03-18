@@ -1,0 +1,37 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_9905.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_9905_hohoemi.motion3.json"
+        },
+        {
+          "File": "motions/c_9905_iyaiya.motion3.json"
+        },
+        {
+          "File": "motions/c_9905_yaruki.motion3.json"
+        },
+        {
+          "File": "motions/c_9905_mogumogu.motion3.json"
+        },
+        {
+          "File": "motions/c_9905_idle.motion3.json"
+        },
+        {
+          "File": "motions/c_9905_asease.motion3.json"
+        },
+        {
+          "File": "motions/c_9905_utouto.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

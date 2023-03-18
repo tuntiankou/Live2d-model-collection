@@ -1,0 +1,37 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_9903.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/9903_3.motion3.json"
+        },
+        {
+          "File": "motions/9903_4.motion3.json"
+        },
+        {
+          "File": "motions/c_9903.motion3.json"
+        },
+        {
+          "File": "motions/9903_2.motion3.json"
+        },
+        {
+          "File": "motions/9903_1.motion3.json"
+        },
+        {
+          "File": "motions/9903_5.motion3.json"
+        },
+        {
+          "File": "motions/9903_6.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

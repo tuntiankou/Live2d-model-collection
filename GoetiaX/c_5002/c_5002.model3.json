@@ -1,0 +1,22 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_5002.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_5002_teregao.motion3.json"
+        },
+        {
+          "File": "motions/c_5002_idle.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

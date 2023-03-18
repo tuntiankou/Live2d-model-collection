@@ -1,0 +1,28 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_9009.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_9009_idle.motion3.json"
+        },
+        {
+          "File": "motions/c_9009_okaeri.motion3.json"
+        },
+        {
+          "File": "motions/c_9009_egao.motion3.json"
+        },
+        {
+          "File": "motions/c_9009_tere.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

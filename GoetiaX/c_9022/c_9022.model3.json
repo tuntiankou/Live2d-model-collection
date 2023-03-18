@@ -1,0 +1,31 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_9022.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_9022_glass.motion3.json"
+        },
+        {
+          "File": "motions/c_9022_sashinoberu.motion3.json"
+        },
+        {
+          "File": "motions/c_9022_yakimochi.motion3.json"
+        },
+        {
+          "File": "motions/c_9022_kigatsuku.motion3.json"
+        },
+        {
+          "File": "motions/c_9022_idle.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "c_9026.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/c_9026_egao.motion3.json"
+        },
+        {
+          "File": "motions/c_9026_idle.motion3.json"
+        },
+        {
+          "File": "motions/c_9026_yozora.motion3.json"
+        },
+        {
+          "File": "motions/c_9026_kyoton.motion3.json"
+        },
+        {
+          "File": "motions/c_9026_pancake.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}
